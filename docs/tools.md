@@ -1,6 +1,6 @@
-# Magisk Tools
-
-Magisk comes with a huge collections of tools for installation, daemons, and utilities for developers. This documentation covers the 4 binaries and all included applets. The binaries and applets are shown below:
+没啥问题# Magisk Tools
+没有问题
+就是不知道教程怎么Magisk comes with a huge collections of tools for installation, daemons, and utilities for developers. This documentation covers the 4 binaries and all included applets. The binaries and applets are shown below:
 
 ```
 magiskboot                 /* binary */
